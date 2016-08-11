@@ -1,0 +1,12 @@
+gr\forth\ics\isl\grouprecsmr\job1\Job1Reducer.class
+gr\forth\ics\isl\grouprecsmr\job4\Job4MapperSingle.class
+gr\forth\ics\isl\grouprecsmr\multiuser\MultiUserMain.class
+gr\forth\ics\isl\grouprecsmr\job3\Job3MapperMulti.class
+gr\forth\ics\isl\grouprecsmr\job1\Job1Mapper.class
+gr\forth\ics\isl\grouprecsmr\job2\Job2ReducerSingle.class
+gr\forth\ics\isl\grouprecsmr\job4\Job4Reducer.class
+gr\forth\ics\isl\grouprecsmr\job3\Job3ReducerMulti.class
+gr\forth\ics\isl\grouprecsmr\job3\Job3ReducerSingle.class
+gr\forth\ics\isl\grouprecsmr\job3\Job3MapperSingle.class
+gr\forth\ics\isl\grouprecsmr\singleuser\SingleUserMain.class
+gr\forth\ics\isl\grouprecsmr\job2\Job2ReducerMulti.class
